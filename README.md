@@ -1,2 +1,3 @@
-# jag_cli_tools
-Some tools to streamline jag tasks
+# JAG CLI Tools
+
+Some command-line interface (CLI) tools to help JAG streamline some repetitive tasks.
